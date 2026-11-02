@@ -4,5 +4,5 @@ Branch: CSM
 Section: 4
 Title:
 1) Collage Information and Admission Website.
-2) Restaurant and Cafe Website.
+2) Online Food Ordering Website.
 3) Bakery and Cake Shop website. 
